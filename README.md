@@ -1,2 +1,2 @@
 # Deployment Anonymous notes
-deployment at http://3.145.101.187/
+deployment at http://3.15.195.65/
